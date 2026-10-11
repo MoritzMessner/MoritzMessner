@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Moritz 👋
 
-<!--
-**MoritzMessner/MoritzMessner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer from Stuttgart, building production apps for **iOS, Android and Web**.
 
-Here are some ideas to get you started:
+- 💼 Software Developer (Flutter/Mobile) at **OneQrew**
+- 📱 On the side: developing and maintaining a published Flutter app for a German publisher
+- 🛠️ Flutter · Dart · Firebase · Provider / Riverpod · Clean Architecture · Fastlane · CI/CD
+- 🌐 Portfolio & CV: [moritzmessner.github.io](https://moritzmessner.github.io/)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/moritz-messner-382a6323a/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Open source
+
+| Project | What it does |
+| --- | --- |
+| [google-home-yaml-editor](https://github.com/MoritzMessner/google-home-yaml-editor) | Visual editor for Google Home automation scripts (YAML) |
+| [app-go-live-checklist](https://github.com/MoritzMessner/app-go-live-checklist) | App Store & Play Store release checklist, built with Flutter |
+| [flutter-cursor-rules](https://github.com/MoritzMessner/flutter-cursor-rules) | Cursor rules for Flutter projects |
